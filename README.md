@@ -1,6 +1,7 @@
 # Laravel-Backpack-ArcaneDev-LogViewer
 
-Integrate ArcaneDev/LogViewer in your Laravel-Backpack project
+Integrate [ArcaneDev/LogViewer](https://github.com/ARCANEDEV/LogViewer) in your [Laravel-Backpack](https://github.com/Laravel-Backpack/Base) project
+
 ![screenshot](https://user-images.githubusercontent.com/4065733/29937863-8b9bee30-8e4c-11e7-958f-534896cc230f.png)
 
 # Requirements
